@@ -1,7 +1,7 @@
-# CHARTBOT
+# CHATBOT
 
 ```
-- This Project is the frontend for the chart bot project.
+- This Project is the frontend for the chat bot project.
 - That is to say, you need to run the backend for the bot to work.
 ```
 
